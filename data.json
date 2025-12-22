@@ -1,31 +1,34 @@
 {
   "movies": [
     {
-      "title": "",
+      "title": "The Matrix",
       "ubicacion": "Book 02",
       "idioma": "ingles",
       "calidad_video": "4K",
       "audio": "DTS",
       "traktvID": "the-matrix-1999",
-      "notas": "Original"
+      "notas": "Original",
+      "traktTitle": "The Matrix"
     },
     {
-      "title": "",
+      "title": "Terminator 2: Judgment Day",
       "ubicacion": "Book 02",
       "idioma": "ingles",
       "calidad_video": "4K",
       "audio": "Stereo",
       "traktvID": "terminator-2-judgment-day-1991",
-      "notas": "EdiciÃ³n especial"
+      "notas": "EdiciÃ³n especial",
+      "traktTitle": "Terminator 2: Judgment Day"
     },
     {
-      "title": "",
+      "title": "Monsters, Inc.",
       "ubicacion": "Book 01",
       "idioma": "inglés",
       "calidad_video": "4K",
       "audio": "DTS",
       "traktvID": "monsters-inc-2001",
-      "notas": ""
+      "notas": "",
+      "traktTitle": "Monsters, Inc."
     },
     {
       "title": "Rocky III",
@@ -37,13 +40,14 @@
       "notas": ""
     },
     {
-      "title": "",
+      "title": "Superman",
       "ubicacion": "Book 05",
       "idioma": "inglés",
       "calidad_video": "4K",
       "audio": "DTS",
       "traktvID": "superman-2025",
-      "notas": ""
+      "notas": "",
+      "traktTitle": "Superman"
     }
   ]
 }
