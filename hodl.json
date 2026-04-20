@@ -1,40 +1,40 @@
 {
-  "portfolioTotal": 4484.854680974809,
+  "portfolioTotal": 4490.851048749734,
   "assets": [
     {
       "symbol": "ETH",
       "network": "Mainnet",
-      "balance": 0,
-      "price": 2323.11,
-      "totalValue": 0
+      "balance": 0.0005,
+      "price": 2325.35,
+      "totalValue": 1.162675
     },
     {
       "symbol": "WBTC",
       "network": "Mainnet",
-      "balance": 0,
-      "price": 76018.3,
-      "totalValue": 0
+      "balance": 0.00001332,
+      "price": 76088.5,
+      "totalValue": 1.01349882
     },
     {
       "symbol": "ETH",
       "network": "Arbitrum",
       "balance": 0.4496315676990617,
-      "price": 2323.11,
-      "totalValue": 1044.5435912373673
+      "price": 2325.35,
+      "totalValue": 1045.550765949013
     },
     {
       "symbol": "WBTC",
       "network": "Arbitrum",
       "balance": 0.03630256,
-      "price": 76018.3,
-      "totalValue": 2759.658896848
+      "price": 76088.5,
+      "totalValue": 2762.20733656
     },
     {
       "symbol": "BNB",
       "network": "BSC",
       "balance": 1.0255020592248647,
-      "price": 630.731,
-      "totalValue": 646.8159393169582
+      "price": 630.989,
+      "totalValue": 647.0805188482382
     },
     {
       "symbol": "POL",
@@ -44,5 +44,5 @@
       "totalValue": 33.83625357248297
     }
   ],
-  "updated": "2026-04-20T22:00:23.088Z"
+  "updated": "2026-04-20T22:05:17.414Z"
 }
