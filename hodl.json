@@ -1,46 +1,48 @@
 {
-  "portfolioTotal": 4446.749294549922,
+  "portfolioTotal": 4479.386294753543,
   "assets": [
     {
       "symbol": "ETH",
       "network": "Mainnet",
       "balance": 0.44977882,
-      "price": 2287.38,
-      "totalValue": 1028.8150772916001
+      "price": 2286.5,
+      "totalValue": 1028.4192719300001
     },
     {
       "symbol": "WBTC",
       "network": "Mainnet",
       "balance": 0.03616103,
-      "price": 76809.5,
-      "totalValue": 2777.5106337849998
+      "price": 76799.9,
+      "totalValue": 2777.1634878969994
     },
     {
       "symbol": "ETH",
       "network": "Arbitrum",
       "balance": 0.00022085137,
-      "price": 2287.38,
-      "totalValue": 0.5051710067106
+      "price": 2286.5,
+      "totalValue": 0.504976657505
     },
     {
       "symbol": "WBTC",
       "network": "Arbitrum",
       "balance": 0,
-      "price": 76809.5,
+      "price": 76799.9,
       "totalValue": 0
     },
     {
       "symbol": "BNB",
       "network": "BSC",
       "balance": 1.0255020592248647,
-      "price": 624.005,
-      "totalValue": 639.9184124666117
+      "price": 623.746,
+      "totalValue": 639.6528074332724
     },
     {
       "symbol": "POL",
       "network": "Polygon",
-      "error": "Unexpected token '<', \"<!DOCTYPE \"... is not valid JSON"
+      "balance": 366.11263150995694,
+      "price": 0.0919,
+      "totalValue": 33.64575083576504
     }
   ],
-  "updated": "2026-04-28T03:40:20.654Z"
+  "updated": "2026-04-28T03:45:18.840Z"
 }
