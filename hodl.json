@@ -1,33 +1,32 @@
 {
-  "portfolioTotal": 3513.4107540133477,
+  "portfolioTotal": 4230.2262705125295,
   "assets": [
     {
       "symbol": "ETH",
       "network": "Mainnet",
       "balance": 0.5124634098935198,
-      "price": 1909.77,
-      "totalValue": 978.6872463123473
+      "price": 1908.03,
+      "totalValue": 977.7955599791326
     },
     {
       "symbol": "WBTC",
       "network": "Mainnet",
       "balance": 0.03918607,
-      "price": 64684.3,
-      "totalValue": 2534.7235077010005
+      "price": 64650,
+      "totalValue": 2533.3794255000003
     },
     {
       "symbol": "BNB",
       "network": "BSC",
-      "error": "Unexpected token '<', \"<html>\r\n<h\"... is not valid JSON",
       "balance": 1.2123854892248647,
-      "totalValue": 0,
-      "_zeroDebounced": true
+      "price": 593.088,
+      "totalValue": 719.0512850333965
     }
   ],
   "zeroStreaks": {
     "ETH::MAINNET": 0,
     "WBTC::MAINNET": 0,
-    "BNB::BSC": 1
+    "BNB::BSC": 0
   },
-  "updated": "2026-08-05T22:50:16.667Z"
+  "updated": "2026-08-05T22:55:16.816Z"
 }
