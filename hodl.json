@@ -1,26 +1,26 @@
 {
-  "portfolioTotal": 5585.302498557464,
+  "portfolioTotal": 5584.456638496404,
   "assets": [
     {
       "symbol": "ETH",
       "network": "Mainnet",
       "balance": 0.5363199898935198,
-      "price": 2440.03,
-      "totalValue": 1308.6368649398853
+      "price": 2438.9,
+      "totalValue": 1308.0308233513056
     },
     {
       "symbol": "WBTC",
       "network": "Mainnet",
       "balance": 0.04041636,
-      "price": 82616.3,
-      "totalValue": 3339.050122668
+      "price": 82623.3,
+      "totalValue": 3339.333037188
     },
     {
       "symbol": "BNB",
       "network": "BSC",
       "balance": 1.2687693992248648,
-      "price": 738.996,
-      "totalValue": 937.6155109495782
+      "price": 738.584,
+      "totalValue": 937.0927779570975
     }
   ],
   "zeroStreaks": {
@@ -28,5 +28,5 @@
     "WBTC::MAINNET": 0,
     "BNB::BSC": 0
   },
-  "updated": "2026-10-20T19:50:18.264Z"
+  "updated": "2026-10-20T19:55:17.763Z"
 }
